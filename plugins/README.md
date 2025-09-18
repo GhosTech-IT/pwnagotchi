@@ -1,6 +1,6 @@
 # Pwnagotchi Custom Plugins Installation
 
-This guide explains how to install specific **custom plugins** from this repository into a **JayOfElony Pwnagotchi build**. These steps will download the plugins directly from GitHub, place them into the correct directory, and enable them via the Web UI.
+This guide explains how to install specific **custom plugins** from this repository into a **Jayofelony Pwnagotchi build**. These steps will download the plugins directly from GitHub, place them into the correct directory, and enable them via the Web UI.
 
 ---
 
