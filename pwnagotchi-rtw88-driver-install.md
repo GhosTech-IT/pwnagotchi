@@ -164,7 +164,7 @@ After reboot, your `rtw88` driver compatible external Realtek adapter should wor
 - The team that developed and may still be developing the rtw88 driver: https://github.com/lwfinger/rtw88
 - Special thanks to @ruslyn (R4TKN) - https://github.com/rusyln - https://ko-fi.com/r4tkn
   - Created the inspiration behind this project via social media and provided guidance/advice for issues with installing the driver.
-- Special thanks to @wpa-2 (wpa_2 on Reddit) ⚠️This user is very toxic and will go to the ends of the Earth—including harming others—to avoid tarnishment of his reputation. He is ignorant and abuses his power as a moderator of the r/pwnagotchi subreddit.⚠️ [DOCUMENTED PROOF](https://www.instagram.com/p/DRNlVnJEhlK/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) 
+- Special thanks to @wpa-2 (wpa_2 on Reddit)
   - Provided guidance/advice to disable the `fix_services` plugin.
 
 ---
