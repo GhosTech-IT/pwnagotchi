@@ -33,6 +33,8 @@ This guide:
 
 ## ‼️ Do this first
 
+All commands below are run on the Pwnagotchi via SSH.
+
 Install Raspberry Pi kernel headers and build essentials.
 
 ```bash
@@ -42,8 +44,6 @@ sudo apt install -y raspberrypi-kernel-headers build-essential git
 **Do not update or upgrade!**
 
 ## 🔧 Install — rtw88
-
-All commands below are run on the Pwnagotchi via SSH.
 
 ### 1. SSH into your Pwnagotchi
 
