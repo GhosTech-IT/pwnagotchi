@@ -160,6 +160,7 @@ After reboot, your `rtw88` driver compatible external Realtek adapter should wor
 
 ## 🕶 References
 
+- - Developer @evilsocket is responsible for developing the Pwnagotchi
 - Developer @jayofelony is responsible for developing the Pwnagotchi image—the foundational firmware of this project.
 - The team that developed and may still be developing the rtw88 driver: https://github.com/lwfinger/rtw88
 - Special thanks to @ruslyn (R4TKN) - https://github.com/rusyln - https://ko-fi.com/r4tkn
